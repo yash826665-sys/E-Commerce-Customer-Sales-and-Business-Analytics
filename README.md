@@ -120,8 +120,7 @@ Customers were segmented using Recency, Frequency, and Monetary value with simpl
 A full acquisition-cohort retention heatmap was built (see notebook and PDF report), but the result revealed an important limitation stated explicitly rather than glossed over: **fewer than 2% of customers make any repeat purchase at all**, so month-over-month retention is consistently under 1% for nearly every cohort. This is a genuine finding about Olist's business model — it behaves like a one-time-purchase marketplace, not a subscription/habitual-repurchase business — and RFM segmentation (not cohort retention) is used as the primary customer-value framework as a result.
 
 ## SQL Analysis
-
-`sql/ecommerce_analysis.sql` contains 20 business questions across five sections (Sales, Customer, Product, Seller, Delivery & Reviews), using only `SELECT`, `WHERE`, `GROUP BY`, `HAVING`, `ORDER BY`, `INNER/LEFT JOIN`, `CASE WHEN`, and basic subqueries — deliberately avoiding CTEs and window functions to keep the SQL beginner-friendly and fully explainable. Every query was tested against a SQLite database built from the cleaned data and returns real, verified results.
+The sql analysis consist of 20 fully structured queries
 
 ## Tableau Dashboards
 
@@ -166,4 +165,3 @@ Full detail for each recommendation (what, why, supporting analysis, expected be
 - Incorporate product cost data (if available) to move from revenue to true profitability analysis
 - Extend the dataset with more recent order history to validate whether findings still hold
 - A/B test the delivery-estimate and win-back-campaign recommendations directly rather than relying on observational analysis alone
-- Build a live-refreshing Tableau dashboard connected directly to a production database rather than static CSV extracts
