@@ -165,3 +165,20 @@ Full detail for each recommendation (what, why, supporting analysis, expected be
 - Incorporate product cost data (if available) to move from revenue to true profitability analysis
 - Extend the dataset with more recent order history to validate whether findings still hold
 - A/B test the delivery-estimate and win-back-campaign recommendations directly rather than relying on observational analysis alone
+
+## 📗 Excel Data Cleaning
+
+After completing the main analysis using Python, SQL, and Tableau, I additionally cleaned and prepared the dataset using **Microsoft Excel** to demonstrate a practical spreadsheet-based data-cleaning workflow.
+
+The Excel workflow included:
+
+* **Power Query** for data import, transformation, and cleaning
+* **XLOOKUP / VLOOKUP** for data enrichment across related datasets
+* **SUMIFS / COUNTIFS** for aggregation and analysis
+* **IF and date formulas** for calculated fields and delivery metrics
+* Handling missing values and duplicates
+
+
+This Excel workflow was added **later as an additional data-cleaning and business-analysis approach**, while the original project analysis was performed using Python, SQL, and Tableau.
+
+**Link of cleaned dataset using excel**-https://www.kaggle.com/datasets/yashchaudhary000/cleaned-data-using-excel
