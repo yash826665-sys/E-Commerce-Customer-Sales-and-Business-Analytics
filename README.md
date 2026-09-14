@@ -69,7 +69,7 @@ ecommerce-data-analytics/
 │   └── ecommerce_analysis.sql    # 20 documented business questions in SQL
 │
 ├── dashboard_images/
-│   ├── executive_overview.png
+│   ├── Executive_overview.png
 │   ├── customer_analytics.png
 │   └── product_operations.png
 │
@@ -124,7 +124,7 @@ The sql analysis consist of 20 fully structured queries
 
 ## Tableau Dashboards
 
-1. **Executive Overview** — KPI cards, monthly revenue trend, category/state revenue breakdown, revenue concentration
+1. **Executive Overview** — KPI cards, monthly revenue trend, category/state revenue breakdown
 2. **Customer Analytics** — RFM segment revenue/customer share, customer spend distribution, retention cohort heatmap
 3. **Product & Operations Analytics** — late delivery rate by state, lowest-rated categories, seller concentration (Pareto), review score distribution
 
