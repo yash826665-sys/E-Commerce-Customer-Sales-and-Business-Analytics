@@ -31,7 +31,7 @@ An e-commerce marketplace wants to understand its sales performance, customer be
 
 ## Dataset
 
-[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle) — real, anonymized commercial orders from September 2016 to October 2018, covering ~100K orders across customers, sellers, products, payments, and reviews.
+[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle) — real, anonymized commercial orders from September 2016 to October 2018, covering about 100K orders across customers, sellers, products, payments, and reviews.
 
 ## Data Model
 
