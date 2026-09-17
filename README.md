@@ -1,6 +1,6 @@
 # E-Commerce-Customer-Sales-and-Business-Analytics
 
-## Business Problem
+## The Business Problem
 
 An e-commerce marketplace wants to understand its sales performance, customer behavior, product performance, seller performance, delivery operations, and customer satisfaction in order to identify concrete opportunities for growth and operational improvement.
 
