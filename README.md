@@ -69,9 +69,9 @@ ecommerce-data-analytics/
 │   └── ecommerce_analysis.sql    # 20 documented business questions in SQL
 │
 ├── dashboard_images/
-│   ├── Executive_overview.png
-│   ├── customer_analytics.png
-│   └── product_operations.png
+│   ├── Executive.png
+│   ├── Customer Analytics.png
+│   └── Operations.png
 │
 ├── charts/                       # 12 individual EDA charts (PNG)
 │
