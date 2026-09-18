@@ -51,7 +51,7 @@ customers (1) ──< orders (1) ──< order_items >── (many:1) products >
 - **Python:** NumPy, Pandas, Matplotlib, Seaborn — data cleaning, transformation, EDA, RFM segmentation, cohort analysis
 - **SQL:** SQLite — 20 business questions using beginner-friendly SQL (no CTEs, no window functions)
 - **Tableau:** three dashboards (Executive Overview, Customer Analytics, Product & Operations)
-- **Reporting:** a 23-page PDF business report built from the actual calculated results
+- **Reporting:** a PDF business report built from the actual calculated results
 
 ## Repository Structure
 
